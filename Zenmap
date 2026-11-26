@@ -1,0 +1,20 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-11-13 22:40 PKT
+Nmap scan report for _gateway (192.168.1.1)
+Host is up (0.0033s latency).
+MAC Address: CC:B0:71:43:FE:20 (Unknown)
+Nmap scan report for 192.168.1.4
+Host is up (0.059s latency).
+MAC Address: FA:E2:34:11:A7:96 (Unknown)
+Nmap scan report for 192.168.1.5
+Host is up (0.057s latency).
+MAC Address: B6:D7:07:79:61:CB (Unknown)
+Nmap scan report for 192.168.1.7
+Host is up (0.058s latency).
+MAC Address: A2:0A:BB:C3:06:AD (Unknown)
+Nmap scan report for 192.168.1.8
+Host is up (0.055s latency).
+MAC Address: 52:EC:0B:F6:E5:BE (Unknown)
+Nmap scan report for yasin (192.168.1.9)
+Host is up.
+Nmap done: 256 IP addresses (6 hosts up) scanned in 2.52 seconds
+
